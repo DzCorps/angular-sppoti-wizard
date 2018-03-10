@@ -45,7 +45,7 @@ This wizard support Bootstrap 3 & 4
 
 ## Demo 
 
-  ---> demo goes here
+  ---> https://dzcorps.github.io/sppoti-wizard/
   
 
 ## Development server
