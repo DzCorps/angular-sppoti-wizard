@@ -8,7 +8,7 @@ This wizard support Bootstrap 3 & 4
 
 ## DOWNLOAD
 
-`npm install sppoti-wizard`
+`npm install angular-sppoti-wizard`
 
 ## Add wizard
 
