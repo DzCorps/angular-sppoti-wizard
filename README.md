@@ -17,6 +17,16 @@ This wizard support Bootstrap 3 & 4
 
 `<wizard-step [title]="" [isValid]="" (onNext)="" (onPrev)="" (onComplete)="" ></wizard-step>`
 
+```
+...
+ imports: [
+    BrowserModule,
+    // Import wizard
+    SppotiWizardModule.forRoot()
+  ]
+...
+```
+
 ## Input and Output
 
 ### INPUT
