@@ -1,5 +1,7 @@
 # SppotiWizard
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/60805b89fe434164a3d96dcb03f1f011)](https://app.codacy.com/app/DzCorps/sppoti-wizard?utm_source=github.com&utm_medium=referral&utm_content=DzCorps/sppoti-wizard&utm_campaign=badger)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
 
 This wizard support Bootstrap 3 & 4
