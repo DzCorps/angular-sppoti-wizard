@@ -1,6 +1,6 @@
 {
-  "name": "sppoti-angular-wizard",
-  "version": "1.0.2",
+  "name": "angular-sppoti-wizard",
+  "version": "1.0.1",
   "license": "MIT",
   "scripts": {
     "ng": "ng",

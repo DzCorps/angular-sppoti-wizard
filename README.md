@@ -12,12 +12,7 @@ This wizard support Bootstrap 3 & 4
 
 ## Add wizard
 
-`<sppoti-wizard></sppoti-wizard>`
-
-
-## Add step
-
-`<wizard-step [title]="" [isValid]="" (onNext)="" (onPrev)="" (onComplete)="" ></wizard-step>`
+**First:** Import the module
 
 ```
 ...
@@ -26,6 +21,20 @@ This wizard support Bootstrap 3 & 4
     // Import wizard
     SppotiWizardModule.forRoot()
   ]
+...
+```
+
+**Second:** Add the directive to your component
+
+`<sppoti-wizard></sppoti-wizard>`
+
+**Third:** Add steps inside the previous directive
+
+```
+...
+<sppoti-wizard>
+    <wizard-step [title]="" [isValid]="" (onNext)="" (onPrev)="" (onComplete)="" ></wizard-step>
+<sppoti-wizard>
 ...
 ```
 
