@@ -1,6 +1,7 @@
 # SppotiWizard
 
 [![npm version](https://badge.fury.io/js/angular-sppoti-wizard.svg)](https://badge.fury.io/js/angular-sppoti-wizard)  [![Codacy Badge](https://api.codacy.com/project/badge/Grade/263e746d621d4afd9a23732b0bd053c3)](https://www.codacy.com/app/DzCorps/sppoti-wizard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DzCorps/sppoti-wizard&amp;utm_campaign=Badge_Grade)
+[![BCH compliance](https://bettercodehub.com/edge/badge/DzCorps/angular-emojione?branch=master)](https://bettercodehub.com/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
 
